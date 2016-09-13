@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Charts (2.2.5):
+    - Charts/Core (= 2.2.5)
+  - Charts/Core (2.2.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - Charts (from `/Users/ryanmooney_mba/Desktop/Charts-Swift3.0-ChartV3`)
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Charts:
+    :path: /Users/ryanmooney_mba/Desktop/Charts-Swift3.0-ChartV3
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Charts: 1ef8d3b1684eadb14e61f74eb5db5ef58eef3422
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: b4becde30a27f8dbd5b1696c79d382ccc2a86cd4
+
+COCOAPODS: 1.0.1

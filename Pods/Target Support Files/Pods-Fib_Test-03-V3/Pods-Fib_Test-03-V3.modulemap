@@ -1,0 +1,6 @@
+framework module Pods_Fib_Test_03_V3 {
+  umbrella header "Pods-Fib_Test-03-V3-umbrella.h"
+
+  export *
+  module * { export * }
+}
